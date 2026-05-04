@@ -34,7 +34,7 @@ This implementation uses the **Chunks Algorithm** for optimal sorting performanc
 
 ```bash
 # Clone the repository
-git clone https://github.com/paraganaryt-tech/push_swap.git
+git clone https://github.com/simossd/push_swap.git
 cd push_swap
 
 # Compile the mandatory part
